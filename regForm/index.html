@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Ticket type</title>
+
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> 
+
+	<!-- jQuery-validate plugin -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js"></script>
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<div class="">
+		<header class="title">
+			<h2>Registration Form</h2>
+		</header>
+		<p class="">To register for an event, select the ticket type and fill out the registration form.</p>
+
+		<!-- MESSAGE AFTER SUCCESS REGISTRATION -->
+		<h3 id="success"></h3>
+
+		 <!-- Get User data -->
+		<form name="ticket_form" id="ticket-form" class="grid-container" enctype="multipart/form-data">
+
+			<!-- FREE TICKET TYPE -->
+			<div class="ticket-type grid-item item1">
+				<input type="radio" class ="" id="free" value="free" name="ticketType" checked>
+				<label for="free" class="form__radio-label">
+					<span class="form__radio-circle">
+            			<span class="form__inner-radio-circle"></span>
+          			</span>
+          			Free 
+          		</label>
+
+			<!-- STANDART TICKET TYPE -->
+				<input type="radio" class ="" id="standart" value="standart" name="ticketType">
+				<label for="standart" class="form__radio-label">
+					<span class="form__radio-circle">
+            			<span class="form__inner-radio-circle"></span>
+          			</span>
+          			Standart
+          		</label>
+				
+			<!-- PREMIUM TICKET TYPE -->
+				<input type="radio" class ="" id="premium" value="premium" name="ticketType">
+				<label for="premium" class="form__radio-label">
+					<span class="form__radio-circle">
+            			<span class="form__inner-radio-circle"></span>
+          			</span>
+					Premium
+				</label>
+				<p class="ticket_error text-danger"></p>
+
+			</div>
+
+			<!-- USER NAME -->
+			<div class="grid-item item2">
+				<input type="text" class ="user-data " id="name" name="name" required>
+				<label for="name" class="control name">Name:</label>
+				<span class="name_error text-danger"></span>
+
+			</div>
+
+			<!-- USER LAST NAME -->
+			<div class="grid-item item3">
+				<input type="text" class ="user-data" id="lastName" name="lastName" required>
+				<label for="lastName" class="control">Last name:</label>
+				<span class="lastName_error text-danger"></span>
+			</div>
+
+			<!-- EMAIL ADDRESS -->
+			<div class="grid-item item4">
+				<input type="email" class ="user-data" id="email" name="email" required>
+				<label for="email" class="control">Email:</label>
+				<span class="email_error text-danger"></span>
+			</div>
+
+			<!-- CAPTCHA -->
+			<div class="grid-item item5">
+				<input type="text" class ="user-data" id="captchaTxt" name="captcha" required>
+				<label for="captcha" class="control">Please type the letters below:</label>
+				<span class="captcha_error text-danger"></span>
+			</div>
+
+			<!-- REFRESH CAPTCHA -->
+			<div class="grid-item item6">
+				<img src="captcha.php" id="captchaImg">
+				<p>Can't read the above letters? <a id="refresh" href="#" role="button" class="">Refresh</a></p>
+			</div>
+
+			<!-- SUBMIT BUTTON -->
+			<div class="grid-item item7">
+				<input id="submit-btn" class="submit-btn title" type="submit" value="submit" name="submit">
+			</div>
+		</form>
+	</div>
+	<script src="script.js"></script>
+</body>
+</html>

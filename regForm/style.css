@@ -1,0 +1,191 @@
+body {
+	font-family: 'Helvetica', Arial, sans-serif;
+}
+
+.grid-container {
+	display: grid;
+	grid-row-gap: 10px;
+	grid-template-columns: auto auto auto;
+	justify-content: center;
+	align-content: center;
+	padding: 10px;
+}
+
+.grid-item {
+	text-align: center;
+	padding: 10px;
+	font-size: 18px;
+	position: relative;
+}
+
+.item1 {
+	grid-column: 1 / span 3;
+	grid-row: 1;
+}
+
+.item2 {
+	grid-column: 1 / span 3;
+	grid-row: 2;	
+}
+
+.item3 {
+	grid-column: 1 / span 3;
+	grid-row: 3;	
+}
+
+.item4 {
+	grid-column: 1 / span 3;
+	grid-row: 4;	
+}
+
+.item5 {
+	grid-column: 1 / span 3;
+	grid-row: 5;	
+}
+
+.item6 {
+	grid-column: 1 / span 3;
+	grid-row: 6;	
+}
+
+.item7 {
+	grid-column: 2 / span 3;
+	grid-row: 7;
+}
+
+
+.title {
+	text-align: center;
+	text-transform: uppercase;
+}
+
+p {
+	text-align: center;
+}
+
+label.control {
+  	left: 10px;
+  	top: 15px;
+  	display: block;
+  	margin: 0;
+  	font-weight: 300;
+  	font-size: 18px;
+  	line-height: 10px;
+  	position: absolute;
+  	z-index: 1;
+	transition: all 0.5s ease;
+}
+
+input.user-data:hover~label.control  {
+  	color: #2196f3;
+}
+
+input.user-data:hover {
+  	border-bottom: 2px solid #2196f3;
+}
+
+
+input.user-data {
+	background: transparent;
+  	padding: 0;
+   	font-size: 18px;
+  	position: relative;
+	width: 100%;
+	border: none;
+	border-bottom: 2px solid #000000;
+  	z-index: 2;
+}
+
+input[type=submit] {
+	background-color: #ffffff;
+	border: 2px solid #000000;
+	cursor: pointer;
+	border-radius: 25px;
+	width: 75%;
+	height: 40px;
+}
+
+input[type=submit]:hover {
+	background-color: #000000;
+	color: #ffffff;
+}
+.error, .text-danger {
+	color: #E2001A;
+	font-size: 14px;
+}
+
+#success {
+	color: #1EBB00;
+}
+
+p.ticket_error {
+	margin: 0;
+}
+
+input:not([type=radio]).error {
+  	border-bottom: 2px solid #E2001A;
+}
+
+input:not([type=radio]).error~label.control{
+	color: #E2001A;
+	display: block;
+  	top: 0;
+  	font-size: 14px;
+}
+
+input:not([type=radio]):focus~label.control, input:not([type=radio]):valid~label.control {
+  	display: block;
+  	top: 0;
+  	font-size: 14px;
+  	color: #2196f3;
+}
+
+input:not([type=radio]):not([type=submit]):focus {
+  	border-bottom: 2px solid #2196f3;
+}
+
+/*add style to radio options*/
+input[type=radio] {
+  	opacity: 0;
+  	/*display: none;*/
+  	position: absolute;
+}
+
+.form__radio-circle {
+  	position: relative;
+  	border-radius: 50%;
+  	width: 1rem;
+  	height: 1rem;
+  	margin: 0 0 0 1em;
+  	display: inline-block;
+  	border: 0.125rem solid #000000;
+  	background-color: #000000;
+}
+
+.form__radio-circle:hover, .form__radio-label:hover>span {
+  	background-color: #2196f3;
+  	border: 0.125rem solid #2196f3;
+}
+
+.form__inner-radio-circle {
+  	display: inline-block;
+  	height: 1rem;
+  	width: 1rem;
+  	border-radius: 50%;
+  	background: #ffffff;
+  	transition: transform 0.3s ease;
+}
+
+input[type=radio]:hover + label .form__inner-radio-circle,
+input[type=radio]:focus + label .form__inner-radio-circle {
+    transform: scale(0.5);
+}
+
+input[type=radio]:checked + label .form__inner-radio-circle {
+    transform: scale(0);
+}
+
+input {
+	outline: none;
+}
+
