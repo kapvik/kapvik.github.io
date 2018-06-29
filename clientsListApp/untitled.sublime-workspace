@@ -1,0 +1,630 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"props\tReact: this.props."
+			],
+			[
+				"component",
+				"componentDidMount"
+			],
+			[
+				"setYear",
+				"setYearAction"
+			],
+			[
+				"pl",
+				"placeholder\t%placeholder"
+			],
+			[
+				"t",
+				"t-a\ttop: auto;"
+			],
+			[
+				"medi",
+				"media\t@media"
+			],
+			[
+				"media",
+				"@media\t@media ${1:screen} {\n\t${0}\n}"
+			],
+			[
+				"lis",
+				"list\tlist-style-type"
+			],
+			[
+				"d",
+				"d-n\tdisplay: none;"
+			],
+			[
+				"pos",
+				"pos-a\tposition: absolute;"
+			],
+			[
+				"d-",
+				"d-b\tdisplay: block;"
+			],
+			[
+				"cu",
+				"cur-p\tcursor: pointer;"
+			],
+			[
+				"op",
+				"op\topacity"
+			],
+			[
+				"po",
+				"pos-r\tposition: relative;"
+			],
+			[
+				"pr",
+				"pr\tpadding-right"
+			],
+			[
+				"mr",
+				"mr\tmargin-right"
+			],
+			[
+				"me",
+				"media\t@media"
+			],
+			[
+				"ta",
+				"ta-c\ttext-align: center;"
+			],
+			[
+				"com",
+				"community"
+			],
+			[
+				"in",
+				"include\t@include"
+			],
+			[
+				"navbar",
+				"navbarSupportedContent"
+			],
+			[
+				"impo",
+				"import\t@import"
+			],
+			[
+				"text-",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"y",
+				"yl\tblade-yield"
+			],
+			[
+				"layo",
+				"layouts/app.blade.php \tBlade Autocomplete"
+			],
+			[
+				"View",
+				"View::composer\tDefine a View Composer"
+			],
+			[
+				"plu",
+				"array_pluck\tL5 Array Pluck"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"v",
+				"value\tAttr"
+			],
+			[
+				"ro",
+				"route\tL5 Route"
+			],
+			[
+				"re",
+				"ret\treturn"
+			],
+			[
+				"if",
+				"ifx_close"
+			],
+			[
+				"req",
+				"request\tL5 Request"
+			],
+			[
+				"i",
+				"if\tblade-if"
+			],
+			[
+				"f",
+				"foreach\tblade-foreach"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"form",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"arti",
+				"articles"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"admin",
+				"admin/layouts/app_admin.blade.php \tBlade Autocomplete"
+			],
+			[
+				"cre",
+				"created"
+			],
+			[
+				"A",
+				"Article"
+			],
+			[
+				"form-",
+				"form-inline \tBootstrap 4 Class"
+			],
+			[
+				"btn-ou",
+				"btn-outline-secondary \tBootstrap 4 Class"
+			],
+			[
+				"text",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"ons",
+				"onsubmit\tAttr"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"de",
+				"delimiter"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"cat",
+				"category_list"
+			],
+			[
+				"fo",
+				"form-control"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 698,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html><html lang=\"en\"><head><meta charset=\"utf-8\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1,shrink-to-fit=no\"><link rel=\"shortcut icon\" href=\"/firstReactProject/favicon.ico\"><title>Clients List App</title><link href=\"/firstReactProject/static/css/main.5bbef5e2.css\" rel=\"stylesheet\"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div><script type=\"text/javascript\" src=\"/firstReactProject/static/js/main.01844618.js\"></script></body></html>",
+			"file": "build/index.html",
+			"file_size": 523,
+			"file_write_time": 131747424846546466,
+			"settings":
+			{
+				"buffer_size": 523,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"age",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/victoria/it/github.io/kapvik.github.io/firstReactProject"
+	],
+	"file_history":
+	[
+		"/home/victoria/it/github.io/kapvik.github.io/firstReactProject/package.json",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/package.json",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/components/User.jsx",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/components/UserList.jsx",
+		"/home/victoria/it/testwork/incode/app/search-field/src/actions/index.js",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/actions/action-types.js",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/actions/index.js",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/reducers/rootReducer.js",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/components/SearchField.jsx",
+		"/home/victoria/it/testwork/incode/app/search-field/src/components/SearchField.jsx",
+		"/home/victoria/it/testwork/incode/app/search-field/src/reducers/rootReducer.js",
+		"/home/victoria/it/testwork/incode/app/search-field/src/actions/action-types.js",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/UserData.jsx",
+		"/home/victoria/it/testwork/incode/app/search-field/src/userSelector.js",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/components/UserProfile.jsx",
+		"/home/victoria/it/testwork/incode/app/search-field/src/components/UserProfile.jsx",
+		"/home/victoria/it/testwork/incode/app/view-profile/src/components/UserProfile.jsx",
+		"/home/victoria/it/testwork/incode/app/search-field/src/components/UserList.jsx",
+		"/home/victoria/it/testwork/incode/app/search-field/src/store/configureStore.js",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/store/configureStore.js",
+		"/home/victoria/it/testwork/incode/app/search-field/src/UserData.jsx",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/actions/action-types.js",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/actions/index.js",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/components/Search.jsx",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/components/User.jsx",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/components/UserList.jsx",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/components/UserProfile.jsx",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/containers/Root.jsx",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/containers/UserData.jsx",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/reducers/index.js",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/reducers/userReducer.js",
+		"/home/victoria/it/testwork/incode/app/prop-types/src/prop-types.jsx",
+		"/home/victoria/it/testwork/incode/app/prop-types/src/reducers/rootReducer.js",
+		"/home/victoria/it/testwork/incode/app/prop-types/src/components/User.jsx",
+		"/home/victoria/it/testwork/incode/app/prop-types/src/components/UserProfile.jsx",
+		"/home/victoria/it/testwork/incode/app/prop-types/src/components/SearchField.jsx",
+		"/home/victoria/it/testwork/incode/app/prop-types/src/UserData.jsx",
+		"/home/victoria/it/testwork/incode/app/prop-types/src/components/UserList.jsx",
+		"/home/victoria/it/testwork/incode/app/prop-types/src/userSelector.js",
+		"/home/victoria/it/testwork/incode/app/search-field/src/components/User.jsx",
+		"/home/victoria/it/testwork/incode/app/view-profile/src/components/SearchField.jsx",
+		"/home/victoria/it/testwork/incode/app/view-profile/src/actions/action-types.js",
+		"/home/victoria/it/testwork/incode/app/view-profile/src/actions/index.js",
+		"/home/victoria/it/testwork/incode/app/view-profile/src/components/User.jsx",
+		"/home/victoria/it/testwork/incode/app/view-profile/src/components/UserList.jsx",
+		"/home/victoria/it/testwork/incode/app/view-profile/src/reducers/rootReducer.js",
+		"/home/victoria/it/testwork/incode/app/view-profile/react-redux-course/src/redux/character/actions.js",
+		"/home/victoria/it/testwork/incode/app/my-app/react-redux-course/src/components/CharacterProfile.js",
+		"/home/victoria/it/testwork/incode/app/react-redux-course/clients.json",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/mechs/mechsActions.js",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/mechs/mechsReducer.js",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/mechs/MechsList/MechsList.jsx",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/mechs/MechsList/MechsListRow.jsx",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/mechs/MechDetails/MechDetails.jsx",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/pilots/Pilot.js",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/pilots/pilotsActions.js",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/pilots/pilotsReducer.js",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/pilots/pilotsSelectors.js",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/pilots/PilotDetails/PilotCommands.jsx",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/pilots/PilotDetails/PilotDetails.jsx",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/pilots/Pilots/Pilots.jsx",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/mechs/mechSelectors.js",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/mechs/Mechs/Mechs.jsx",
+		"/home/victoria/it/testwork/incode/app/my-app/react-redux-course/src/redux/character/profile.js",
+		"/home/victoria/it/testwork/incode/app/my-app/react-redux-course/src/redux/character/movies.js",
+		"/home/victoria/it/testwork/incode/app/my-app/react-redux-course/src/redux/character/index.js",
+		"/home/victoria/it/testwork/incode/app/my-app/react-redux-course/src/redux/character/actions.js",
+		"/home/victoria/it/testwork/incode/app/my-app/react-redux-course/src/redux/character/id.js",
+		"/home/victoria/it/testwork/incode/app/my-app/src/userSelector.js",
+		"/home/victoria/it/testwork/incode/app/my-app/src/reducers/rootReducer.js",
+		"/home/victoria/it/testwork/incode/app/my-app/src/actions/index.js",
+		"/home/victoria/it/testwork/incode/app/my-app/src/components/User.jsx",
+		"/home/victoria/it/testwork/incode/app/my-app/src/components/UserProfile.jsx",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/node_modules/@babel/runtime/helpers/AsyncGenerator.js",
+		"/home/victoria/it/testwork/incode/app/my-app/src/components/UserList.jsx",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/pilots/PilotsList/PilotsList.jsx",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/pilots/PilotsList/PilotsListRow.jsx",
+		"/home/victoria/it/testwork/incode/app/third-try/redux/examples/todomvc/src/actions/index.js",
+		"/home/victoria/it/testwork/incode/app/third-try/redux/examples/todomvc/src/actions/index.spec.js",
+		"/home/victoria/it/testwork/incode/app/third-try/redux/examples/todomvc/src/constants/ActionTypes.js",
+		"/home/victoria/it/testwork/incode/app/third-try/redux/examples/todomvc/src/constants/TodoFilters.js",
+		"/home/victoria/it/testwork/incode/app/third-try/redux/examples/todomvc/src/containers/FilterLink.js",
+		"/home/victoria/it/testwork/incode/app/third-try/redux/examples/todomvc/src/containers/Header.js",
+		"/home/victoria/it/testwork/incode/app/third-try/redux/examples/todomvc/src/containers/Header.spec.js",
+		"/home/victoria/it/testwork/incode/app/third-try/redux/examples/todomvc/src/containers/MainSection.js",
+		"/home/victoria/it/testwork/incode/app/third-try/redux/examples/todomvc/src/containers/VisibleTodoList.js",
+		"/home/victoria/it/testwork/incode/app/third-try/redux/examples/todomvc/src/selectors/index.js",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/index.js",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/app/layout/App.js",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/contextMenus/ContextMenu.jsx",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/tools/Tools/Tools.jsx",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/features/modals/TestModal.jsx",
+		"/home/victoria/it/testwork/incode/app/second-try/project-minimek/src/common/components/ColorPicker/ColorPickerDialog.jsx",
+		"/home/victoria/it/testwork/incode/app/my-app/src/actions/action-types.js",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/.gitignore",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/Root.js",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/index.js",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/reducers/testReducer.js",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/public/index.html",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/README.md",
+		"/home/victoria/it/testwork/incode/app/my-app/README.md",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/App.test.js",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/SampleComponent.jsx",
+		"/home/victoria/it/testwork/incode/app/clients-list-app/src/reducers/testReduser.js",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/configureStore.js",
+		"/home/victoria/it/testwork/incode/app/third-try/src/reducers/index.js",
+		"/home/victoria/it/testwork/incode/app/third-try/src/actions/userDataAction.js",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/containers/Root.js",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/index.js",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/components/UserProfile.js",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/components/User.js",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/components/UserList.js",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/components/Search.js",
+		"/home/victoria/it/testwork/incode/app/fifth-try/package.json",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/actions/actions.js",
+		"/home/victoria/it/testwork/incode/app/fifth-try/.gitignore",
+		"/home/victoria/it/testwork/incode/app/fifth-try/public/index.html",
+		"/home/victoria/it/testwork/incode/app/fifth-try/src/containers/App.js",
+		"/home/victoria/it/testwork/incode/app/third-try/src/logo.svg",
+		"/home/victoria/it/testwork/incode/app/third-try/src/configureStore.js",
+		"/home/victoria/it/testwork/incode/app/third-try/src/containers/UserData.js",
+		"/home/victoria/it/testwork/incode/app/third-try/src/containers/Root.js",
+		"/home/victoria/it/testwork/incode/app/third-try/src/index.js",
+		"/home/victoria/it/testwork/incode/app/third-try/src/components/App.js",
+		"/home/victoria/it/testwork/incode/app/third-try/src/modules/store.js",
+		"/home/victoria/it/testwork/incode/app/second-try/src/reducers/info.js",
+		"/home/victoria/it/study/kultprosvet/homework/WEB-development-course/Javascript Course/Homework/Lesson_12/Victoria_Kapitulina/src/store/actions.js",
+		"/home/victoria/it/testwork/incode/app/second-try/src/actions/actionYear.js"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/victoria/it/github.io/kapvik.github.io/firstReactProject"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 19.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "build/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								523,
+								523
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 257.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 265.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
